@@ -8,7 +8,7 @@ function App() {
   return (
     <>
     {/* css 리셋*/}
-    <GlobalStyles/>
+ 
 
     {/*메뉴*/}
     <Header/>
