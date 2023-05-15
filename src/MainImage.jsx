@@ -1,6 +1,5 @@
 import styled from "styled-components";
 
-
 const ContainerImage=styled.div`
 width:100%;
 height:80vh;
