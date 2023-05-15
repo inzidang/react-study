@@ -2,6 +2,7 @@ import { GlobalStyles } from "./styles";
 import Header from "./Header";
 import MainImage from "./MainImage";
 import Profile from "./Profile";
+import Portfolio1 from "./Portfolio1";
 
 
 function App() {
@@ -18,6 +19,8 @@ function App() {
 
     {/* 프로파일*/}
     <Profile />
+
+    <Portfolio1/>
     </>
   );
 }
